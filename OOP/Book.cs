@@ -9,7 +9,7 @@ namespace OOP
     public class Book
     {
         //1- vazifa
-        //construktor: defoult
+        //construktor: default
         public Book()
         {
             
